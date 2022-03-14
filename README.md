@@ -2,4 +2,7 @@
 
 Finds shortest path when 2D points are given.
 
-![0DJMUZ](https://user-images.githubusercontent.com/74016088/158160207-d8faf8b1-8274-4a1a-82ec-081026cdbf94.png)
+
+![0DJMUZ](https://user-images.githubusercontent.com/74016088/158160365-910d31a6-2922-4377-b5fc-6a8c8f664b09.jpg)
+
+
