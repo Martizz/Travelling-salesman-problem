@@ -44,10 +44,10 @@ int main() {
         }
     }
 
-    cout << "Best route: ";
+    cout << "Najlepsza trasa: ";
     for (int i = 0; i < DIM + 1; i++)
         cout << bestRoute[i]<<"  ";
 
-    cout << '\n' <<"Total cost: " << minCost << '\n';
+    cout << '\n' <<"Koszt najlepszej trasy: " << minCost << '\n';
     return 0;
 }
